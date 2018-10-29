@@ -1,0 +1,11 @@
+/Users/h279810/Projects/Project2/coreSample1/bin/Debug/netcoreapp2.1/coreSample1.deps.json
+/Users/h279810/Projects/Project2/coreSample1/bin/Debug/netcoreapp2.1/coreSample1.runtimeconfig.json
+/Users/h279810/Projects/Project2/coreSample1/bin/Debug/netcoreapp2.1/coreSample1.runtimeconfig.dev.json
+/Users/h279810/Projects/Project2/coreSample1/bin/Debug/netcoreapp2.1/coreSample1.dll
+/Users/h279810/Projects/Project2/coreSample1/bin/Debug/netcoreapp2.1/coreSample1.pdb
+/Users/h279810/Projects/Project2/coreSample1/obj/Debug/netcoreapp2.1/coreSample1.csprojAssemblyReference.cache
+/Users/h279810/Projects/Project2/coreSample1/obj/Debug/netcoreapp2.1/coreSample1.csproj.CoreCompileInputs.cache
+/Users/h279810/Projects/Project2/coreSample1/obj/Debug/netcoreapp2.1/coreSample1.AssemblyInfoInputs.cache
+/Users/h279810/Projects/Project2/coreSample1/obj/Debug/netcoreapp2.1/coreSample1.AssemblyInfo.cs
+/Users/h279810/Projects/Project2/coreSample1/obj/Debug/netcoreapp2.1/coreSample1.dll
+/Users/h279810/Projects/Project2/coreSample1/obj/Debug/netcoreapp2.1/coreSample1.pdb
